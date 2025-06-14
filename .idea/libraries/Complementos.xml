@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Complementos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Complementos/mysql-connector-j-9.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Complementos/jcalendar-1.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Complementos/mysql-connector-java-5.1.23-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
